@@ -31,3 +31,8 @@ For default the method main receive the page and the method to click receives a 
 ## Step 4:
 
 Creates a tunnel of communication between chats with pubsub.
+
+
+*Jaqueline de Almeida*
+Software developer
+Linkedin: [www.linkedin.com/in/jaqueline-de-almeida]
