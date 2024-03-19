@@ -14,8 +14,8 @@
     - field: "Write your message"
     - button: to send
   
-Use the ´flet´ - framework of the Python to creae  app and site. 
-    *comand&: ´pip install flet´
+Use the ´flet´ - framework of the Python to create  app and site. 
+    *command: ´pip install flet´
 
 *Important*:
 ft.WEB_BROWSER - para formato web
